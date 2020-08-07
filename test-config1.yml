@@ -2,3 +2,5 @@ spring:
   application:
     name: test-cloud-test1
 
+server:
+  port: 8201
