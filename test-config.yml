@@ -9,7 +9,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: test-cloud-dev-2.0
+    name: SpringCloud09-dev
 eureka:
   client:
     serviceUrl:
@@ -28,4 +28,4 @@ server:
 spring:
   profiles: test
   application:
-    name: test-cloud-test-2.0
+    name: SpringCloud09-dev
